@@ -1,0 +1,71 @@
+.a{
+    display: flex;
+}
+.b{
+    display: flex;
+    margin-left: 10%;
+    justify-content: space-between;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    border-radius: 5px;
+}
+.c{
+    display: flex;
+    margin-left: 50%;
+}
+li{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font: bold;
+    color: #fdf8ff;
+    font-size: 30px;
+}
+.d{
+    text-align: center;
+    font-size: 50px;
+    color: #fcffec;
+}
+.e{
+    text-align: center;
+    font-size: 25px;
+    color: #fdf8ff;
+}
+.f{
+    width: 10%;
+    margin-left: 40%;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background-color: unset;
+    font-size: 20px;
+    color: #fdf8ff ;
+    border-bottom: ;
+}
+.g{
+    background-color: #1a5fff;
+    color: #fcffec;
+    margin-left: 45%;
+    margin-top: 10%;
+    width: 10%;
+    height: 5vh;
+    font-size: 20px;
+
+}
+body{
+    background-image: url("resources/PIC 8.jpg");
+    background-size: cover;
+}
+.g:hover{
+    background-color: #1725ff;
+}
+.i{
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+}
+
